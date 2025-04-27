@@ -1,6 +1,5 @@
 # < OnlineBookStore </a> 
 - A Java Web Developement Project
--
 <hr>
 
 ### About
